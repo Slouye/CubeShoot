@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DarkGodServer",
+    "\\DarkGodServer\\01Service",
+    "\\DarkGodServer\\01Service\\01NetSvc",
+    "\\DarkGodServer\\02System",
+    "\\DarkGodServer\\02System\\01LoginSys"
+  ],
+  "PreviewInSolutionExplorer": false
+}

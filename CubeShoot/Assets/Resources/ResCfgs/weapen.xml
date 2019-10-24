@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item ID="0">
+		<weapenType>Rifle</weapenType>
+		<weapenDamage>5</weapenDamage>
+		<weapenShootRate>10</weapenShootRate>
+		<weapenFrontBullet>30</weapenFrontBullet>
+		<weapenBackBullet>900</weapenBackBullet>
+		<weapenReload>2</weapenReload>
+    <weapenRocoil>3</weapenRocoil>
+    <weapenRocoilTime>1</weapenRocoilTime>
+    <BulletPrefab>ResGuns/RifleBullet</BulletPrefab>
+    <FireEffect>ResEffect/RifleFireEffect</FireEffect>
+    <ShellEffect>ResEffect/RifleShellEffect</ShellEffect>
+</item>
+	<item ID="1">
+		<weapenType>Sniper</weapenType>
+		<weapenDamage>20</weapenDamage>
+		<weapenShootRate>1</weapenShootRate>
+		<weapenFrontBullet>10</weapenFrontBullet>
+		<weapenBackBullet>300</weapenBackBullet>
+		<weapenReload>3</weapenReload>
+    <weapenRocoil>4</weapenRocoil>
+    <weapenRocoilTime>2</weapenRocoilTime>
+    <BulletPrefab>ResGuns/RifleBullet</BulletPrefab>
+    <FireEffect>ResEffect/RifleFireEffect</FireEffect>
+    <ShellEffect>ResEffect/RifleShellEffect</ShellEffect>
+	</item>
+</root>
